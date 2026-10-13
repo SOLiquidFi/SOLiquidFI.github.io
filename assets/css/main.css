@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/SOLiquid Fi_Logo_New_1600X1000.png");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2703,9 +2703,9 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
-/* Main BG */
+/* Main  */
 
-	.main-bg {
+	.main- {
 		-moz-transition: opacity 0.5s ease-out;
 		-webkit-transition: opacity 0.5s ease-out;
 		-ms-transition: opacity 0.5s ease-out;
@@ -2723,7 +2723,7 @@ input, select, textarea {
 		z-index: -1;
 	}
 
-		.main-bg.active {
+		.main-.active {
 			opacity: 1;
 		}
 
@@ -2924,9 +2924,9 @@ input, select, textarea {
 
 	@media screen and (max-width: 980px) {
 
-		/* Main BG */
+		/* Main  */
 
-			.main-bg {
+			.main- {
 				display: none;
 			}
 
